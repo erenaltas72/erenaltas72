@@ -2,9 +2,9 @@
 
 
 ##  Socials:
-[![Contact](https://img.shields.io/badge/CONTACT-GMAIL-yellow?style=for-the-badge&logo=gmail&logoColor=white)](mailto:metehanuluocak@hotmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/metehan-uluocak-286580223/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mete.ulck)
+[![Contact](https://img.shields.io/badge/CONTACT-GMAIL-yellow?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erenaltas72@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ziya-eren-alta%C5%9F-b689441a3/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/erenaltas_72?igshid=MzRlODBiNWFlZA==)
 
-
+# LOOK HERE
 [<img src="https://tryhackme-badges.s3.amazonaws.com/w1nchester.png" alt="TryHackMe">](https://tryhackme.com/p/w1nchester)
 
 
